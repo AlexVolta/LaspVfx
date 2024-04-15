@@ -16,9 +16,11 @@
     }
   ],
   "dependencies": {
-    "com.unity.render-pipelines.high-definition": "10.6.0",
-    "org.nuget.system.memory": "4.5.3",
+    "com.unity.ai.navigation": "2.0.0",
+    "com.unity.render-pipelines.high-definition": "16.0.4",
     "jp.keijiro.klak.motion": "1.0.2",
+    "org.nuget.system.memory": "4.5.3",
+    "com.unity.modules.accessibility": "1.0.0",
     "com.unity.modules.animation": "1.0.0",
     "com.unity.modules.imageconversion": "1.0.0",
     "com.unity.modules.physics": "1.0.0",
